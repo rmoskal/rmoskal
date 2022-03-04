@@ -1,1 +1,1 @@
-As an advisor and a practitioner, I draw on what I’ve learned shipping 2-3 applications EVERY year for more than 20 years.
+As an advisor and a practitioner, I  share what I’ve learned shipping 2-3 applications EVERY year for more than 20 years.  You can read all about it here: [https://rmoskal.github.io/](https://rmoskal.github.io/)
